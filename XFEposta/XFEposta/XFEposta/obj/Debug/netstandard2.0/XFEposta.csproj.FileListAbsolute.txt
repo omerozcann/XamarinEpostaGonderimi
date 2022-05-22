@@ -1,0 +1,15 @@
+D:\Belgeler\Visual Studio 2019\Projects\XFEposta\XFEposta\XFEposta\bin\Debug\netstandard2.0\XFEposta.deps.json
+D:\Belgeler\Visual Studio 2019\Projects\XFEposta\XFEposta\XFEposta\bin\Debug\netstandard2.0\XFEposta.dll
+D:\Belgeler\Visual Studio 2019\Projects\XFEposta\XFEposta\XFEposta\bin\Debug\netstandard2.0\ref\XFEposta.dll
+D:\Belgeler\Visual Studio 2019\Projects\XFEposta\XFEposta\XFEposta\bin\Debug\netstandard2.0\XFEposta.pdb
+D:\Belgeler\Visual Studio 2019\Projects\XFEposta\XFEposta\XFEposta\obj\Debug\netstandard2.0\XFEposta.csproj.AssemblyReference.cache
+D:\Belgeler\Visual Studio 2019\Projects\XFEposta\XFEposta\XFEposta\obj\Debug\netstandard2.0\XFEposta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belgeler\Visual Studio 2019\Projects\XFEposta\XFEposta\XFEposta\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Belgeler\Visual Studio 2019\Projects\XFEposta\XFEposta\XFEposta\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Belgeler\Visual Studio 2019\Projects\XFEposta\XFEposta\XFEposta\obj\Debug\netstandard2.0\XFEposta.AssemblyInfoInputs.cache
+D:\Belgeler\Visual Studio 2019\Projects\XFEposta\XFEposta\XFEposta\obj\Debug\netstandard2.0\XFEposta.AssemblyInfo.cs
+D:\Belgeler\Visual Studio 2019\Projects\XFEposta\XFEposta\XFEposta\obj\Debug\netstandard2.0\XFEposta.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2019\Projects\XFEposta\XFEposta\XFEposta\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Belgeler\Visual Studio 2019\Projects\XFEposta\XFEposta\XFEposta\obj\Debug\netstandard2.0\XFEposta.dll
+D:\Belgeler\Visual Studio 2019\Projects\XFEposta\XFEposta\XFEposta\obj\Debug\netstandard2.0\ref\XFEposta.dll
+D:\Belgeler\Visual Studio 2019\Projects\XFEposta\XFEposta\XFEposta\obj\Debug\netstandard2.0\XFEposta.pdb

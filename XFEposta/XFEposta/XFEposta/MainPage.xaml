@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XFEposta.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label x:Name="durumLbl" Text="Eposta Gönder" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Label Text="Kime" Grid.Column="0" Grid.Row="0"  VerticalOptions="Center" HorizontalOptions="StartAndExpand" />
+            <Entry x:Name="kimeTxt" Placeholder="Kime" Grid.Column="1" Grid.Row="0"  HorizontalOptions="FillAndExpand" />
+            <Label Text="Konu" Grid.Column="0" Grid.Row="1" VerticalOptions="Center" HorizontalOptions="StartAndExpand"/>
+            <Entry x:Name="konuTxt" Placeholder="Konu" Grid.Column="1" Grid.Row="1" HorizontalOptions="FillAndExpand" />
+            <Label Text="Gövde" Grid.Column="0" Grid.Row="2" VerticalOptions="Center" HorizontalOptions="StartAndExpand"/>
+            <Editor x:Name="govdeTxt" MaxLength="200" Placeholder="Gövde" Grid.Column="1" Grid.Row="2" HorizontalOptions="FillAndExpand" />
+            <Button Text="Gönder" Grid.Column="1" Grid.Row="3" Clicked="Button_Clicked" />
+        </Grid>
+        
+
+    </StackLayout>
+
+</ContentPage>
